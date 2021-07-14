@@ -1,0 +1,54 @@
+.header__nav{
+	background-color: rgb(13, 13, 13);
+	height: 60px;
+	width: auto;
+	overflow: hidden;
+	
+}
+
+.nav__div{
+	display: flex;
+	height: 60px;
+	align-items: center;
+  	justify-content: center;
+}
+
+.nav__div img{
+	width: 45px;
+	height: 45px;
+	border-radius: 5px;
+	margin: 0 20px;
+}
+
+.nav__div img:hover{
+	transition: all 0.8s ease;
+}
+.nav__div img:hover{
+	transform: rotate(360deg);
+}
+
+
+.nav__div a{
+	font-size: 20px;
+	margin: 0 20px;
+}
+
+.nav__div a:link {
+
+	color: #fff;
+}
+.nav__div a:visited {
+
+	color: #fff;
+}
+
+.nav__div a:hover{
+	transition: .8s;
+	color: #f00;
+}
+
+.Contactanos{
+	animation: move 1.5s linear infinite;
+}
+
+

@@ -1,0 +1,28 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body{
+	background-color: #f2f2f2;
+	color: #Fff;
+	font-family: 'Lobster Two', cursive;
+}
+
+
+
+.section__titulo-principal{
+	font-size: 5em;
+	padding: 5px 15px;
+	margin: 15px 0;
+	text-align: center;
+	color: #000;
+}
+
+.section__subtitulo{
+	font-size: 2em;
+	font-weight: 100;
+	margin-left: 20px;
+	color: #000;
+}
+
+

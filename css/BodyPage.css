@@ -1,0 +1,30 @@
+.body__page{
+	max-width: 1200px;
+	min-width: 400px;
+	height: auto;
+	margin: auto;
+}
+
+.page__div {
+	text-align: center;
+}
+
+.page__div p{
+	display: block;
+	text-align: justify;
+	padding: 20px 30px;
+	color: #000;
+	font-size: 20px;
+}
+
+.page__div img{
+	float: right;
+	padding: 0 15px;
+}
+
+.page__div b{
+	display: block;
+	text-align: center;
+	font-size: 40px;
+	margin: 9px 0;
+}
