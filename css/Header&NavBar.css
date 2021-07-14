@@ -1,7 +1,7 @@
 .header__nav{
 	background-color: rgb(13, 13, 13);
 	height: 60px;
-	width: auto;
+	width: 100%;
 	overflow: hidden;
 	
 }

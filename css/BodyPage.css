@@ -1,6 +1,5 @@
 .body__page{
-	max-width: 1200px;
-	min-width: 400px;
+	width: 85%;
 	height: auto;
 	margin: auto;
 }
@@ -19,7 +18,7 @@
 
 .page__div img{
 	float: right;
-	padding: 0 15px;
+	padding: 4px 15px;
 }
 
 .page__div b{
